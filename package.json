@@ -1,5 +1,5 @@
 {
-  "name": "bob-bot",
+  "name": "friendly-scenery",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "author": "cony",
   "license": "ISC",
-  "description": "",
+  "description": "hungry",
   "dependencies": {
     "puppeteer": "^22.13.0"
   },
